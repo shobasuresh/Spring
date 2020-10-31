@@ -4,4 +4,8 @@ CPU
 Keyboard
 Monitor
 mouse
+
 MotherBoard
+
+mouse2
+
